@@ -44,3 +44,14 @@ A fully functional, isolated enterprise IT environment built using Oracle Virtua
 * User & Computer Object Provisioning within OUs
 * Group Policy Object (GPO) Creation, Linking, and Security Enforcement
 * Troubleshooting and Policy Propagation Verification (`gpupdate`, Event Viewer)
+
+## 📸 Lab Screenshots
+
+### 1. Group Policy Configuration
+![GPO Control Panel Restriction](Screenshot%202026-11-15%20235836.jpg)
+
+### 2. Active Directory Organizational Unit
+![AD Users and Computers](Screenshot%202026-11-16%20002322.png)
+
+### 3. Client Restriction Verification
+![Client Error Popup](Screenshot%202026-11-16%20002645.jpg)
